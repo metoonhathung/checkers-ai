@@ -1,4 +1,4 @@
-# checkers-ai
+# Checkers AI
 
 https://replit.com/@metoonhathung/checkers-ai
 
@@ -6,7 +6,7 @@ Description: A game of Checkers played in the console with options for player ve
 
 Technologies: Java
 
-###### To run the code locally:
+### To run the code locally:
 
 ```
 git clone https://github.com/metoonhathung/checkers-ai.git
